@@ -1,3 +1,11 @@
+3+ years work experience in IT industry
+
+Languages known: 
+Backend  -  Python, C and C++
+Front end- HTML, CSS, Javascript
+                 
+Tools worked with: UiPath (Robotic Process Automation) 
+Contact me for any work or questions about above languages, I might be able to help you.
 
 
 
