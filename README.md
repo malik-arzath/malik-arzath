@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malik-arzath
-- 👀 I’m interested in python, data science projects
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science related topics. 
+
+
+
 
 
 <!---
